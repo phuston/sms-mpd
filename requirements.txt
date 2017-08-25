@@ -14,6 +14,7 @@ MarkupSafe==1.0
 pycparser==2.18
 PyJWT==1.5.2
 pyOpenSSL==17.2.0
+python-mpd2==0.5.5
 pytz==2017.2
 requests==2.18.3
 six==1.10.0
