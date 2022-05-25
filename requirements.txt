@@ -12,7 +12,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 pycparser==2.18
-PyJWT==1.5.2
+PyJWT==2.4.0
 pyOpenSSL==17.2.0
 python-mpd2==0.5.5
 pytz==2017.2
